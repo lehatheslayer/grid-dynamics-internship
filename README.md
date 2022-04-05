@@ -1,12 +1,13 @@
 # grid-dynamics-internship
 
-## Servlet task
+## Spring task
 
-Create a webservice using pure Java:
+Create a webservice using Spring Boot:
 
 - Java 11+
 - Lombok
-- Webserver Tomcat
-- Database H2 using jdbc
+- Authorization - Spring Security
+- Spring MVC
+- Spring Data
 - Logging: log4j
 - Tests: junit & mockito
